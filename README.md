@@ -23,12 +23,6 @@ Se quiser testar o aplicativo agora mesmo sem baixar nada, basta clicar no link 
 
 O **Lista Smart** nasceu da necessidade de otimizar a experiência de idas ao supermercado e o controle de pendências rotineiras. Diferente de anotações comuns em papel, o aplicativo categoriza itens dinamicamente, monitora o volume de pendências em tempo real e garante que o usuário nunca perca seus dados, mesmo se fechar o navegador por engano.
 
-### 📐 Demonstração Visual
-
-<p align="center">
-* <img width="668" height="867" alt="WhatsApp Image 2026-05-31 at 20 00 23" src="https://github.com/user-attachments/assets/5593cca9-6651-404d-8d65-a306ef914f6d" />
-</p>
-
 ---
 
 ## 🚀 Diferenciais Técnicos e Funcionalidades
@@ -58,5 +52,10 @@ Por ser uma aplicação estática Front-End, todos os códigos e a página princ
 
 * **GitHub:** [@pernisa2](https://github.com/pernisa2)
 
+### 📐 Demonstração Visual
+
+<p align="center">
 * <img width="668" height="867" alt="WhatsApp Image 2026-05-31 at 20 00 23" src="https://github.com/user-attachments/assets/5593cca9-6651-404d-8d65-a306ef914f6d" />
+</p>
+
 
