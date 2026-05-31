@@ -26,7 +26,7 @@ O **Lista Smart** nasceu da necessidade de otimizar a experiência de idas ao su
 ### 📐 Demonstração Visual
 
 <p align="center">
-  <img src="printscreen/app-preview.jpg" alt="Interface do Lista Smart" width="450px">
+* <img width="668" height="867" alt="WhatsApp Image 2026-05-31 at 20 00 23" src="https://github.com/user-attachments/assets/5593cca9-6651-404d-8d65-a306ef914f6d" />
 </p>
 
 ---
@@ -45,7 +45,8 @@ Este projeto demonstra maturidade no desenvolvimento Front-End através de recur
 
 ## 🛠️ Como Executar o Projeto Localmente
 
-Por ser uma aplicação estática Front-End, todos os códigos e a página principal já estão prontos. Você não precisa instalar nenhum servidor local (como o XAMPP):
+Por ser uma aplicação estática Front-End, todos os códigos e a página principal já estão prontos, basta apenas baixar.
+
 
 1. Baixe os arquivos do repositório clicando em **Code > Download ZIP** aqui no GitHub e extraia a pasta.
 2. Entre na pasta extraída.
@@ -57,8 +58,5 @@ Por ser uma aplicação estática Front-End, todos os códigos e a página princ
 
 * **GitHub:** [@pernisa2](https://github.com/pernisa2)
 
-Por ser uma aplicação inteiramente executada do lado do cliente (Front-End), você não precisa de servidores locais como o XAMPP para rodá-la:
+* <img width="668" height="867" alt="WhatsApp Image 2026-05-31 at 20 00 23" src="https://github.com/user-attachments/assets/5593cca9-6651-404d-8d65-a306ef914f6d" />
 
-1. Clone este repositório para sua máquina local:
-```bash
-git clone [https://github.com/pernisa2/Smart-List.git](https://github.com/pernisa2/Smart-List.git)
