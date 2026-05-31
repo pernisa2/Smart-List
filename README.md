@@ -1,4 +1,5 @@
-# 🛒 Lista Smart
+# 🛒 Smart List 
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -51,7 +52,7 @@ Por ser uma aplicação estática Front-End, todos os códigos e a página princ
 ### 📐 Demonstração Visual
 
 <p align="center">
-* <img width="668" height="867" alt="WhatsApp Image 2026-05-31 at 20 00 23" src="https://github.com/user-attachments/assets/5593cca9-6651-404d-8d65-a306ef914f6d" />
+* <img width="1269" height="872" alt="WhatsApp Image 2026-05-31 at 20 10 03" src="https://github.com/user-attachments/assets/8b687bbb-7dad-40fb-a74c-ebdb981fd227" />
 </p>
 
 ---
@@ -59,5 +60,6 @@ Por ser uma aplicação estática Front-End, todos os códigos e a página princ
 ## 🧑‍💻 Desenvolvedor
 
 * **GitHub:** [@pernisa2](https://github.com/pernisa2)
+
 
 
