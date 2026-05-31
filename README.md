@@ -48,14 +48,16 @@ Por ser uma aplicação estática Front-End, todos os códigos e a página princ
 
 ---
 
-## 🧑‍💻 Desenvolvedor
-
-* **GitHub:** [@pernisa2](https://github.com/pernisa2)
-
 ### 📐 Demonstração Visual
 
 <p align="center">
 * <img width="668" height="867" alt="WhatsApp Image 2026-05-31 at 20 00 23" src="https://github.com/user-attachments/assets/5593cca9-6651-404d-8d65-a306ef914f6d" />
 </p>
+
+---
+
+## 🧑‍💻 Desenvolvedor
+
+* **GitHub:** [@pernisa2](https://github.com/pernisa2)
 
 
